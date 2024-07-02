@@ -1,2 +1,1 @@
-"# Patient-Melanoma-Hypothesis-Testing" 
-"# Patient-Melanoma-Hypothesis-Testing" 
+The objective of this analysis is to check the survival rate of melanoma patients after tumour surgery at the Department of Plastic Surgery, University Hospital of Odense, Denmark during the period 1962 to 1977.
